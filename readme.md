@@ -7,8 +7,8 @@
 * Visão analítica.
 
 ## 💻Tecnologias utilizadas
--``Java 8``
--``IntelliJ IDEA``
+- ``Java 8``
+- ``IntelliJ IDEA``
 
 ## ✅Para acessar o projeto
 
